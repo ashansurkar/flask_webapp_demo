@@ -1,2 +1,6 @@
 site.db
 config
+.env
+/myenv
+.vscode
+__pycache__
